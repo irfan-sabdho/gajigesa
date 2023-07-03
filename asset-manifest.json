@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/irfan-sabdho/gajigesa/static/css/main.44a722ef.css",
+    "main.js": "/irfan-sabdho/gajigesa/static/js/main.93ee6c84.js",
+    "static/js/787.005eb8a7.chunk.js": "/irfan-sabdho/gajigesa/static/js/787.005eb8a7.chunk.js",
+    "index.html": "/irfan-sabdho/gajigesa/index.html",
+    "main.44a722ef.css.map": "/irfan-sabdho/gajigesa/static/css/main.44a722ef.css.map",
+    "main.93ee6c84.js.map": "/irfan-sabdho/gajigesa/static/js/main.93ee6c84.js.map",
+    "787.005eb8a7.chunk.js.map": "/irfan-sabdho/gajigesa/static/js/787.005eb8a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a722ef.css",
+    "static/js/main.93ee6c84.js"
+  ]
+}
